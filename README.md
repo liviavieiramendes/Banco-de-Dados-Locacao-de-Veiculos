@@ -8,7 +8,7 @@ Tecnologias utilizadas: SQL e Draw.io
 
 # Modelo MER
 
-<img width="831" height="550" alt="Locação drawio" src="https://github.com/user-attachments/assets/5227c187-4c68-4f32-acc7-40f81b6a3aba" />
+<img width="1096" height="715" alt="image" src="https://github.com/user-attachments/assets/2f09b71e-e165-4cb8-867e-43f0b9a21a67" />
 
 ---
 
